@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jsbeautifier", "Jsbeautifie
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{3C3DC876-88C4-449A-BA4B-AAAD43F1C99D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsBeautifierCmdLine", "JsBeautifierCmdLine\JsBeautifierCmdLine.csproj", "{9C75301F-D6DF-498B-9154-9DDB57339258}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -35,6 +37,17 @@ Global
 		{3C3DC876-88C4-449A-BA4B-AAAD43F1C99D}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
 		{3C3DC876-88C4-449A-BA4B-AAAD43F1C99D}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{3C3DC876-88C4-449A-BA4B-AAAD43F1C99D}.Release|x86.ActiveCfg = Release|Any CPU
+		{9C75301F-D6DF-498B-9154-9DDB57339258}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C75301F-D6DF-498B-9154-9DDB57339258}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C75301F-D6DF-498B-9154-9DDB57339258}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{9C75301F-D6DF-498B-9154-9DDB57339258}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{9C75301F-D6DF-498B-9154-9DDB57339258}.Debug|Mixed Platforms.Deploy.0 = Debug|Any CPU
+		{9C75301F-D6DF-498B-9154-9DDB57339258}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{9C75301F-D6DF-498B-9154-9DDB57339258}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C75301F-D6DF-498B-9154-9DDB57339258}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C75301F-D6DF-498B-9154-9DDB57339258}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{9C75301F-D6DF-498B-9154-9DDB57339258}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{9C75301F-D6DF-498B-9154-9DDB57339258}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

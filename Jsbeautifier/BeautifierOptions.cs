@@ -17,7 +17,7 @@
             this.KeepFunctionIndentation = false;
             this.EvalCode = false;
             //this.UnescapeStrings = false;
-            this.BreakChainedMethods = false;
+            this.BreakChainedMethods = true;
         }
 
         public uint IndentSize { get; set; }
